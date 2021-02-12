@@ -2,10 +2,10 @@ import { combineReducers } from 'redux';
 
 const songsReducer = () => {
   return [
-    { title: 'Alja Gwiazd', duratino: '6:55' },
-    { title: 'szalona', duratino: '4:34' },
-    { title: 'Rudy sie zenie', duratino: '1:20' },
-    { title: 'samba', duratino: '3:44' },
+    { title: 'Aleja Gwiazd', duration: '6:55' },
+    { title: 'Szalona', duration: '4:34' },
+    { title: 'Rudy sie zenie', duration: '1:20' },
+    { title: 'Szambo', duration: '3:44' },
   ];
 };
 
